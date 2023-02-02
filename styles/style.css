@@ -133,6 +133,7 @@
   flex-wrap: wrap;
   gap: 40px;
   padding: 0;
+  padding-left: 0;
 }
 
 .card {
@@ -436,7 +437,7 @@
 
 .footer__logo {
   width: 153px;
-  min-height: 224px;
+  height: 224px;
 }
 
 .footer__list {
