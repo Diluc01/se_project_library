@@ -436,8 +436,8 @@
 }
 
 .footer__logo {
-  width: 153px;
-  height: 224px;
+  width: 116px;
+  min-height: 21px;
 }
 
 .footer__list {
